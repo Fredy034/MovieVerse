@@ -1,0 +1,6 @@
+// .gitignore
+
+# Ignore files that contain sensitive information
+# and should not be shared publicly.
+Proyecto_TMDb.txt
+secret.js
